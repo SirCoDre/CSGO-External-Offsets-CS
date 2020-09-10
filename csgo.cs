@@ -1,6 +1,6 @@
 using System;
 
-// 2020-08-28 20:18:27.235795300 UTC
+// 2020-09-10 09:19:42.187048900 UTC
 
 namespace hazedumper
 {
@@ -28,13 +28,13 @@ namespace hazedumper
         public const Int32 dwClientState_MaxPlayer = 0x388;
         public const Int32 dwClientState_State = 0x108;
         public const Int32 dwClientState_ViewAngles = 0x4D88;
-        public const Int32 dwEntityList = 0x4D5442C;
-        public const Int32 dwForceAttack = 0x3185984;
-        public const Int32 dwGetAllClasses = 0xD6623C;
+        public const Int32 dwEntityList = 0x4D4F1FC;
+        public const Int32 dwForceAttack = 0x3180754;
+        public const Int32 dwGetAllClasses = 0xD6123C;
         public const Int32 dwGlobalVars = 0x589AD8;
-        public const Int32 dwLocalPlayer = 0xD3FC5C;
-        public const Int32 dwRadarBase = 0x518919C;
-        public const Int32 dwViewMatrix = 0x4D45D74;
+        public const Int32 dwLocalPlayer = 0xD3AC5C;
+        public const Int32 dwRadarBase = 0x5183F6C;
+        public const Int32 dwViewMatrix = 0x4D40B44;
         public const Int32 m_bDormant = 0xED;
     }
 } // namespace hazedumper
